@@ -1,0 +1,42 @@
+# Ignoring everything on the project except VT #
+################################################
+
+Alloy
+Bakery
+BakeryLightmaps
+Editor
+Gizmos
+Managed
+MeatKit
+MeshCombiner
+NavMeshCleaner
+Packages
+Plugins
+SceneViewFovControl
+Settings
+Alloy.meta
+Bakery.meta
+BakeryLightmaps.meta
+Editor.meta
+Gizmos.meta
+Managed.meta
+MeatKit.meta
+MeshCombiner.meta
+NavMeshCleaner.meta
+New Material.mat
+New Material.mat.meta
+Packages.meta
+Plugins.meta
+PMatAir.asset
+PMatAir.asset.meta
+PMatConcrete.asset
+PMatConcrete.asset.meta
+PMatIron.asset
+PMatIron.asset.meta
+PMatWood.asset
+PMatWood.asset.meta
+PMatZombie.asset
+PMatZombie.asset.meta
+SceneViewFovControl.meta
+Settings.meta
+VT.meta

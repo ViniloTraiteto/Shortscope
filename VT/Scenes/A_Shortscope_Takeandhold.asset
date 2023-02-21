@@ -17,8 +17,8 @@ MonoBehaviour:
   DisplayMode: takeandhold
   Thumbnail: {fileID: 2800000, guid: 2c9e308130945bf4682bf0dcad2fa2c6, type: 3}
   Author: ViniloTraiteto
-  Description: 'Cramped streets, cramped buildings.
+  Description: 'Cramped streets, even more cramped buildings.
 
-    Pester me on any H3VR mod discords for bug reports.
 
-    TnH version.'
+    Holds happen on outdoors, while Supplies force you inside. Keep a pistol at hand
+    because some of these buildings are VERY cramped.'
