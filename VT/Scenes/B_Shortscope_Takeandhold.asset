@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afed54a239594b8abd631a8047a54987, type: 3}
+  m_Name: B_Shortscope_Takeandhold
+  m_EditorClassIdentifier: 
+  PackageName: Shortscope_TnH
+  Author: ViniloTraiteto
+  Version: 1.0.0
+  Icon: {fileID: 2800000, guid: 1d39996ab434cad46aa7473f25431454, type: 3}
+  ReadMe: {fileID: 102900000, guid: ca95bce0dd1bde44db8700a7d5ac8a62, type: 3}
+  WebsiteURL: https://github.com/ViniloTraiteto/Shortscope
+  Description: Unthemed map, small streets, small buildings.
+  AdditionalDependencies: []
+  StripNamespaces: 1
+  AdditionalNamespaces: []
+  ApplyHarmonyPatches: 1
+  BuildItems:
+  - {fileID: 11400000, guid: 161e1200e2503fd4295b90f93197ee7b, type: 2}
+  BuildAction: 2
+  OutputProfile: X:/Games/R2Modman/H3VR/profiles/Maptesting

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb9ca90819b143909ef3b06721bb54cc, type: 3}
+  m_Name: A_Shortscope_Takeandhold
+  m_EditorClassIdentifier: 
+  SceneFile: {fileID: 102900000, guid: a1ee51eb978273743be9d84a7e7cfa25, type: 3}
+  SceneName: Shortscope
+  GameMode: takeandhold
+  DisplayMode: takeandhold
+  Thumbnail: {fileID: 2800000, guid: 2c9e308130945bf4682bf0dcad2fa2c6, type: 3}
+  Author: ViniloTraiteto
+  Description: 'Cramped streets, cramped buildings.
+
+    Pester me on any H3VR mod discords for bug reports.
+
+    TnH version.'
