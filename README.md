@@ -12,6 +12,7 @@ Main map file, which has both Sandbox logic AND Take&Hold logic on it, disable t
 - RealtimeCSG (https://assetstore.unity.com/packages/tools/modeling/realtime-csg-69542)
 - NavMeshCleaner (https://assetstore.unity.com/packages/tools/ai/navmesh-cleaner-151501)
 - Mesh Combiner (https://assetstore.unity.com/packages/tools/modeling/mesh-combiner-157192)
+- Paint.NET for the icon and thumbnail (https://getpaint.net/)
 
 ### How to Use
 Drop the "VT" folder on your own Unity project. I made sure everything I actually made (map, meshes, references, etc.) would be on it.
