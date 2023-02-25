@@ -6,6 +6,8 @@ If you figured where on Runescape I took this chunk off, congrats I have no idea
 
 Take and Hold version. Holds on the outside, supplies on the inside. Any building big enough to hold a supply likely has one (or more).
 
+![Shortscope Map](https://i.imgur.com/leoykVK.png)
+
 # TnH Version Changelog:
 
 ## 1.0.0
