@@ -12,3 +12,8 @@ Take and Hold version. Holds on the outside, supplies on the inside. Any buildin
 
 ## 1.0.0
 - Initial release
+
+## 1.0.1
+- Corrected dependencies
+- Tweaked manifest and description jsons
+- Fixed structural issue of the scene that caused the map to be unloadable after returning to the TnH lobby

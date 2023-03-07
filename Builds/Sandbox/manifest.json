@@ -1,0 +1,10 @@
+{
+  "name": "shortscope_sandbox",
+  "author": "ViniloTraiteto",
+  "version_number": "1.0.1",
+  "description": "Unthemed map, small streets, small buildings.",
+  "website_url": "https://github.com/ViniloTraiteto/Shortscope",
+  "dependencies": [
+    "nrgill28-Atlas-1.0.2"
+  ]
+}

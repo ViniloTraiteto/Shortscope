@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PackageName: Shortscope_TnH
   Author: ViniloTraiteto
-  Version: 1.0.0
+  Version: 1.0.1
   Icon: {fileID: 2800000, guid: 1d39996ab434cad46aa7473f25431454, type: 3}
   ReadMe: {fileID: 102900000, guid: ca95bce0dd1bde44db8700a7d5ac8a62, type: 3}
   WebsiteURL: https://github.com/ViniloTraiteto/Shortscope

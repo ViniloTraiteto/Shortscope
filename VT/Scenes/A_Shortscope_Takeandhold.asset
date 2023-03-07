@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb9ca90819b143909ef3b06721bb54cc, type: 3}
   m_Name: A_Shortscope_Takeandhold
   m_EditorClassIdentifier: 
-  SceneFile: {fileID: 102900000, guid: a1ee51eb978273743be9d84a7e7cfa25, type: 3}
+  SceneFile: {fileID: 102900000, guid: 45b4f73a0fba53a4db8da8e1d84ec83b, type: 3}
   SceneName: Shortscope
   GameMode: takeandhold
   DisplayMode: takeandhold
