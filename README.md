@@ -3,7 +3,9 @@ Unity files for shortscope, in case anyone wants to gaze upon my wretched creati
 
 ### What's in here
 
-Main map file, which has both Sandbox logic AND Take&Hold logic on it, disable the one you don't need and use the proper Build Profile.
+~~Main map file, which has both Sandbox logic AND Take&Hold logic on it, disable the one you don't need and use the proper Build Profile.~~
+This proved to be a bad idea, as having both logics on the same scene file would break certain load procedures in H3...
+There is now a base scene file, with the map meshes and one scene file for each game mode separately.
 
 ### Requirements (and other assets used)
 - Meatkit (https://github.com/H3VR-Modding/MeatKit)
